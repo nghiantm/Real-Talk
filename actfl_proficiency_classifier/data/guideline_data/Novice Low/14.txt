@@ -1,0 +1,5 @@
+1. Hola, me llamo Juan.
+2. ¿Cómo estás?
+3. ¿Dónde está el baño?
+4. Quiero comer pizza.
+5. Ayuda, no entiendo el menú.

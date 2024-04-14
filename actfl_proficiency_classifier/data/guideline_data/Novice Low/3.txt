@@ -1,0 +1,5 @@
+1. Hola, ¿cómo estás?
+2. Soy de México.
+3. Me gusta comer tacos y quesadillas.
+4. ¿Dónde está la biblioteca?
+5. Adiós, buen día.

@@ -1,0 +1,5 @@
+1. Hola, ¿cómo estás?
+2. Soy de Argentina, me llamo Carlos.
+3. Me gusta la comida española, es muy deliciosa.
+4. ¿Puedes ayudarme a practicar mi español?
+5. ¿Dónde está el baño? Estoy perdido.

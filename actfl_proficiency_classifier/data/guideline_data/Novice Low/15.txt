@@ -1,0 +1,5 @@
+1. Hola, me llamo Juan.
+2. Soy de España y me gusta la comida mexicana.
+3. ¿Cómo estás? Estoy bien, gracias.
+4. ¿Dónde está el baño? Necesito ir al baño.
+5. No entiendo el español muy bien, pero estoy aprendiendo poco a poco.
